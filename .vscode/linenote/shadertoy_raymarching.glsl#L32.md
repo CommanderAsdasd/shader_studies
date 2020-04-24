@@ -1,0 +1,1 @@
+making coords from -1.0 to 1.0
